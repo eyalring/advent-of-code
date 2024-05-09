@@ -1,0 +1,8 @@
+module.exports = {
+  GOTO: "GOTO",
+  ACCEPT: "ACCEPT",
+  REJECT: "REJECT",
+  GREATER: "GREATER",
+  SMALLER: "SMALLER",
+  ERROR: "ERROR",
+};
